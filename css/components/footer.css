@@ -1,18 +1,20 @@
+/* style footer */
 .footer {
-    text-align: center;
-    padding: 60px;
-    background-color: #050404;
+background-color:#2C2B2B;
+text-align: center;
+padding: 60px;
 }
 
 .footer a {
-    font-size: 30px;
-    color: #149b5e;
+font-size: 30px;
+color:#1EDD88;
+margin:0 5px;
 }
 
 .footer p {
-    color: #6B6C6C;
+color: #666666;
 }
 
 .footer .fas {
-    color: #BF0F12;
+color:#BF1011
 }
